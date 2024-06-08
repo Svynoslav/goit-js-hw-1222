@@ -5,7 +5,7 @@ import "izitoast/dist/css/iziToast.min.css";
 import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
 
-import { fetchData } from "./js/pixabay.api";
+import { fetchData } from "./js/pixabay-api";
 import { createMarkup } from "./js/render-functions";
 
 const API_KEY = '44071126-68094a25e5e927b0ae90eca12';
